@@ -11,5 +11,5 @@ Void is an artificial intelligence fitted into the Atom text editor. It can auto
 Because my absolutely clueless self sure as hell didn't do all this without a ton of help.
 
 * [Bootstrap](http://getbootstrap.com/): A really good framework for HTML, CSS, and JS. 
-* [Grayscale](http://startbootstrap.com/template-overviews/grayscale/): A one-page Bootstrap theme I barely changed around and used.
+* [Grayscale](http://startbootstrap.com/template-overviews/grayscale/): One-page Bootstrap theme I barely changed around and used.
 * [FontAwesome](http://fontawesome.io/): Vector CSS toolkit with a lot of icons available.
