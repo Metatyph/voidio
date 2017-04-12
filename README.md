@@ -1,26 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Welcome to Void.io!
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Void is an artificial intelligence fitted into the Atom text editor. It can automatically correct errorneous code as well as generate whole blocks of the stuff for various purposes. It also learns along the way using Deep Learning, which in theory means it would never be obsolete. In short, it is a tool made to help programmers program more easily and efficiently. 
 
-## Getting Started
+## Or at least, it would be... 
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+...But sadly, Void is merely an imaginary product made up by four university students for their class. We didn't make Void yet - not even in principle - and maybe we never will. But I think it's a cool idea. And who knows? Maybe someone out there would somehow make this random fever dream project a reality. 
 
-## Bugs and Issues
+## The resources used for this website... 
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Because my absolutely clueless self sure as hell didn't do all this without a ton of help.
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
+[Bootstrap](http://getbootstrap.com/): A really good framework for HTML, CSS, and JS. 
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/): A one-page Bootstrap theme I barely changed around and used.
+[FontAwesome](http://fontawesome.io/): Vector CSS toolkit with a lot of icons available.
