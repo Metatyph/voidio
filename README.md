@@ -4,7 +4,7 @@ Void is an artificial intelligence fitted into the Atom text editor. It can auto
 
 ## Or at least, it would be... 
 
-...But sadly, Void is merely an imaginary product made up by four university students for their class. We didn't make Void yet - not even in principle - and maybe we never will. But I think it's a cool idea. And who knows? Maybe someone out there would somehow make this random fever dream project a reality. 
+...But sadly, Void is merely an imaginary product made up by four university students for their class. We didn't make Void yet - not even in principle - and maybe we never will. That's why it's called Void; there's nothing here as Void doesn't even exist. But who knows? Maybe someone out there would somehow make this random fever dream project a reality. 
 
 ## The resources used for this website... 
 
